@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-03-11 08:58-0500\n"
-"PO-Revision-Date: 2020-03-17 16:04\n"
+"PO-Revision-Date: 2020-03-18 16:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -269,7 +269,7 @@ msgstr "در حال بارگذاری راهنما..."
 
 #: spyder/app/mainwindow.py:866
 msgid "Loading outline explorer..."
-msgstr ""
+msgstr "بار گذاری کاوشگر outline..."
 
 #: spyder/app/mainwindow.py:878
 msgid "Loading editor..."
