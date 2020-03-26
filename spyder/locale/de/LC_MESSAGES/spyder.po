@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-03-11 08:58-0500\n"
-"PO-Revision-Date: 2020-03-25 16:50\n"
+"PO-Revision-Date: 2020-03-26 17:03\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -1225,7 +1225,7 @@ msgstr "Standard ist 500"
 
 #: spyder/plugins/completion/languageserver/confpage.py:719
 msgid "Show completions on the fly"
-msgstr "on-the-fly Vervollständigungen anzeigen"
+msgstr "Vervollständigungen automatisch anzeigen"
 
 #: spyder/plugins/completion/languageserver/confpage.py:723
 msgid "Show automatic completions after characters entered:"
@@ -1722,7 +1722,7 @@ msgstr "Aktuelle Zelle hervorheben"
 
 #: spyder/plugins/editor/confpage.py:49 spyder/plugins/editor/plugin.py:799
 msgid "Scroll past the end"
-msgstr "Scrolle über das Ende hinaus"
+msgstr "Über das Ende hinaus scrollen"
 
 #: spyder/plugins/editor/confpage.py:52
 msgid "Show vertical lines at"
@@ -1853,7 +1853,7 @@ msgstr "Den gesamten Zelleninhalt beim ausführen von Code-Zellen in die Konsole
 
 #: spyder/plugins/editor/confpage.py:213
 msgid "Edit template for new files"
-msgstr "Bearbeiten Sie die Vorlage für neue Dateien"
+msgstr "Bearbeiten der Vorlage für neue Dateien"
 
 #: spyder/plugins/editor/confpage.py:217
 msgid "Autosave"
@@ -4477,7 +4477,7 @@ msgstr "Code-Analyse"
 
 #: spyder/plugins/pylint/plugin.py:108
 msgid "Run static code analysis"
-msgstr "Führen Sie eine statische Code-Analyse durch"
+msgstr "Eine statische Code-Analyse ausführen"
 
 #: spyder/plugins/pylint/widgets/pylintgui.py:82
 msgid "Results for "
@@ -5409,7 +5409,7 @@ msgstr "Eingabeaufforderung beim Beenden"
 
 #: spyder/preferences/general.py:78
 msgid "Show internal Spyder errors to report them to Github"
-msgstr "Zeige Spyder-interne Fehler um Sie an Github zu melden"
+msgstr "Zeige Spyder-interne Fehler um sie an Github zu melden"
 
 #: spyder/preferences/general.py:108
 msgid "Vertical title bars in panes"
@@ -6111,7 +6111,7 @@ msgstr "Speichern des Tokens fehlgeschlagen"
 
 #: spyder/widgets/github/backend.py:188
 msgid "It was not possible to securely save your token. You will be prompted for your Github token next time you want to report an issue."
-msgstr "Es war nicht möglich ihren Token sicher zu speichern. Sie werden nach Ihrem Github-Token gefragt, wenn sie das nächste mal einen Fehler melden wollen."
+msgstr "Es war nicht möglich Ihren Token sicher zu speichern. Sie werden nach Ihrem Github-Token gefragt, wenn Sie das nächste mal einen Fehler melden wollen."
 
 #: spyder/widgets/github/backend.py:210
 msgid "Failed to retrieve token"
