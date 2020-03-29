@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-03-11 08:58-0500\n"
-"PO-Revision-Date: 2020-03-28 19:15\n"
+"PO-Revision-Date: 2020-03-29 19:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -794,27 +794,27 @@ msgstr ""
 
 #: spyder/dependencies.py:107
 msgid "IPython interactive python environment"
-msgstr ""
+msgstr "Interaktywne środowisko IPython"
 
 #: spyder/dependencies.py:111
 msgid "Main backend for the Python Language Server"
-msgstr ""
+msgstr "Główny backend dla Python Language Server"
 
 #: spyder/dependencies.py:115
 msgid "Save Github credentials to report internal errors securely"
-msgstr ""
+msgstr "Zapisz dane logowania Github, aby bezpiecznie zgłaszać błędy wewnętrzne"
 
 #: spyder/dependencies.py:121
 msgid "Manipulate Jupyter notebooks in the Editor"
-msgstr ""
+msgstr "Zarządzaj notatnikami Jupyter w Edytorze"
 
 #: spyder/dependencies.py:125
 msgid "Improve code completion for objects that use Numpy docstrings"
-msgstr ""
+msgstr "Ulepsz uzupełnianie kodu obiektów, które używają Numpy docstrings"
 
 #: spyder/dependencies.py:129
 msgid "Connect to remote kernels through SSH"
-msgstr ""
+msgstr "Połącz ze zdalnymi kernelami przez SSH"
 
 #: spyder/dependencies.py:134
 msgid "Python parser that supports error recovery and round-trip parsing"
@@ -826,7 +826,7 @@ msgstr ""
 
 #: spyder/dependencies.py:143
 msgid "Cache the list of installed Python modules"
-msgstr ""
+msgstr "Buforuj listę zainstalowanych modułów Pythona"
 
 #: spyder/dependencies.py:147
 msgid "CPU and memory usage info in the status bar"
@@ -846,27 +846,27 @@ msgstr ""
 
 #: spyder/dependencies.py:163
 msgid "Parse desktop files on Linux"
-msgstr ""
+msgstr "Przetwarzanie plików pulpitu w systemie Linux"
 
 #: spyder/dependencies.py:168
 msgid "Client for the language server protocol (LSP)"
-msgstr ""
+msgstr "Klient protokołu Language Server Protocol (LSP)"
 
 #: spyder/dependencies.py:172
 msgid "Dark style for the entire interface"
-msgstr ""
+msgstr "Ciemny styl dla całego interfejsu"
 
 #: spyder/dependencies.py:176
 msgid "Icon theme based on FontAwesome and Material Design icons"
-msgstr ""
+msgstr "Motyw ikon oparty na ikonach FontAwesome i Material Design"
 
 #: spyder/dependencies.py:180
 msgid "Main package for the IPython console"
-msgstr ""
+msgstr "Główny pakiet dla konsoli IPython"
 
 #: spyder/dependencies.py:184
 msgid "Abstraction layer for Python Qt bindings."
-msgstr ""
+msgstr "Warstwa Abstrakcji dla bindingów Pythona Qt."
 
 #: spyder/dependencies.py:188
 msgid "Fast access to code snippets regions"
@@ -1372,23 +1372,23 @@ msgstr ""
 
 #: spyder/plugins/completion/languageserver/confpage.py:938 spyder/plugins/completion/languageserver/confpage.py:1220
 msgid "Ignore the following errors:"
-msgstr ""
+msgstr "Zignoruj następujące błędy:"
 
 #: spyder/plugins/completion/languageserver/confpage.py:940
 msgid "Example codes: D107, D402"
-msgstr ""
+msgstr "Przykładowe kody: D107, D402"
 
 #: spyder/plugins/completion/languageserver/confpage.py:944
 msgid "Skip test files: (?!test_).*\\.py"
-msgstr ""
+msgstr "Pomiń pliki testowe: (?!test_).*\\.py"
 
 #: spyder/plugins/completion/languageserver/confpage.py:946
 msgid "Only check in directories matching these patterns:"
-msgstr ""
+msgstr "Sprawdź tylko w katalogach pasujących do wzorców:"
 
 #: spyder/plugins/completion/languageserver/confpage.py:948
 msgid "Skip dot directories: [^\\.].*"
-msgstr ""
+msgstr "Pomiń katalogi kropek: [^\\.].*"
 
 #: spyder/plugins/completion/languageserver/confpage.py:997
 msgid "Providers"
@@ -1416,7 +1416,7 @@ msgstr ""
 
 #: spyder/plugins/completion/languageserver/confpage.py:1025
 msgid "Kite configuration"
-msgstr ""
+msgstr "Konfiguracja Kite"
 
 #: spyder/plugins/completion/languageserver/confpage.py:1030
 msgid "Python Language Server configuration"
@@ -1424,27 +1424,27 @@ msgstr ""
 
 #: spyder/plugins/completion/languageserver/confpage.py:1033
 msgid "<b>Warning</b>: Only modify these values if you know what you're doing!"
-msgstr ""
+msgstr "<b>Ostrzeżenie</b>: Modyfikuj te wartości tylko, jeśli jesteś pewien, że wiesz co robisz!"
 
 #: spyder/plugins/completion/languageserver/confpage.py:1040
 msgid "Enable advanced settings"
-msgstr ""
+msgstr "Włącz zaawansowane ustawienia"
 
 #: spyder/plugins/completion/languageserver/confpage.py:1044
 msgid "Module for the Python language server: "
-msgstr ""
+msgstr "Moduł dla serwera języka Pythona: "
 
 #: spyder/plugins/completion/languageserver/confpage.py:1048
 msgid "IP Address and port to bind the server to: "
-msgstr ""
+msgstr "Adres IP i port do powiązania serwera z: "
 
 #: spyder/plugins/completion/languageserver/confpage.py:1054
 msgid "This is an external server"
-msgstr ""
+msgstr "To jest serwer zewnętrzny"
 
 #: spyder/plugins/completion/languageserver/confpage.py:1057
 msgid "Use stdio pipes to communicate with server"
-msgstr ""
+msgstr "Użyj potoków stdio do komunikacji z serwerem"
 
 #: spyder/plugins/completion/languageserver/confpage.py:1103
 msgid "Spyder uses the <a href=\"{lsp_url}\">Language Server Protocol</a> to provide code completion and linting for its Editor. Here, you can setup and configure LSP servers for languages other than Python, so Spyder can provide such features for those languages as well."
@@ -1452,15 +1452,15 @@ msgstr ""
 
 #: spyder/plugins/completion/languageserver/confpage.py:1114
 msgid "Available servers:"
-msgstr ""
+msgstr "Dostępne serwery:"
 
 #: spyder/plugins/completion/languageserver/confpage.py:1122 spyder/preferences/shortcuts.py:815
 msgid "Reset to default values"
-msgstr ""
+msgstr "Przywróć wartości domyślne"
 
 #: spyder/plugins/completion/languageserver/confpage.py:1123
 msgid "Set up a new server"
-msgstr ""
+msgstr "Ustaw nowy serwer"
 
 #: spyder/plugins/completion/languageserver/confpage.py:1124
 msgid "Delete currently selected server"
@@ -1778,7 +1778,7 @@ msgstr ""
 
 #: spyder/plugins/editor/confpage.py:143
 msgid "Indentation characters: "
-msgstr ""
+msgstr "Znaki wcięcia: "
 
 #: spyder/plugins/editor/confpage.py:144
 msgid "2 spaces"
@@ -1822,7 +1822,7 @@ msgstr "odstępy"
 
 #: spyder/plugins/editor/confpage.py:196
 msgid "Save all files before running script"
-msgstr ""
+msgstr "Zapisz wszystkie pliki przed uruchomieniem skryptu"
 
 #: spyder/plugins/editor/confpage.py:198
 msgid "Maintain focus in the Editor after running cells or selections"
@@ -1830,11 +1830,11 @@ msgstr ""
 
 #: spyder/plugins/editor/confpage.py:200
 msgid "Copy full cell contents to the console when running code cells"
-msgstr ""
+msgstr "Kopiuj pełną zawartość komórki do konsoli podczas uruchamiania komórek kodu"
 
 #: spyder/plugins/editor/confpage.py:213
 msgid "Edit template for new files"
-msgstr ""
+msgstr "Edytuj szablon dla nowych plików"
 
 #: spyder/plugins/editor/confpage.py:217
 msgid "Autosave"
@@ -1842,7 +1842,7 @@ msgstr "Samozapis"
 
 #: spyder/plugins/editor/confpage.py:219
 msgid "Automatically save a copy of files with unsaved changes"
-msgstr ""
+msgstr "Automatycznie zapisuj kopię plików z niezapisanymi zmianami"
 
 #: spyder/plugins/editor/confpage.py:222
 msgid "Autosave interval: "
@@ -1870,7 +1870,7 @@ msgstr "Google"
 
 #: spyder/plugins/editor/confpage.py:249
 msgid "Sphinx"
-msgstr ""
+msgstr "Sphinx"
 
 #: spyder/plugins/editor/confpage.py:261
 msgid "Annotations"
@@ -1882,11 +1882,11 @@ msgstr ""
 
 #: spyder/plugins/editor/confpage.py:269
 msgid "Display code annotations"
-msgstr ""
+msgstr "Wyświetlaj adnotacje w kodzie"
 
 #: spyder/plugins/editor/confpage.py:278
 msgid "End-of-line characters"
-msgstr ""
+msgstr "Znaki końca linii"
 
 #: spyder/plugins/editor/confpage.py:279
 msgid "When opening a text file containing mixed end-of-line characters (this may raise syntax errors in the consoles on Windows platforms), Spyder may fix the file automatically."
@@ -1894,7 +1894,7 @@ msgstr ""
 
 #: spyder/plugins/editor/confpage.py:285
 msgid "Fix automatically and show warning message box"
-msgstr ""
+msgstr "Naprawiaj automatycznie i pokazuj okno ostrzeżeń"
 
 #: spyder/plugins/editor/confpage.py:288
 msgid "On Save: convert EOL characters to"
@@ -1958,7 +1958,7 @@ msgstr "P&rzywróć"
 
 #: spyder/plugins/editor/plugin.py:428
 msgid "Revert file from disk"
-msgstr ""
+msgstr "Przywróć plik z dysku"
 
 #: spyder/plugins/editor/plugin.py:431
 msgid "&Save"
@@ -1982,7 +1982,7 @@ msgstr "Z&apisz jako..."
 
 #: spyder/plugins/editor/plugin.py:446
 msgid "Save current file as..."
-msgstr ""
+msgstr "Zapisz bieżący plik jako..."
 
 #: spyder/plugins/editor/plugin.py:451
 msgid "Save copy as..."
@@ -1990,7 +1990,7 @@ msgstr "Zapisz kopię jako..."
 
 #: spyder/plugins/editor/plugin.py:452
 msgid "Save copy of current file as..."
-msgstr ""
+msgstr "Zapisz kopię bieżącego pliku jako..."
 
 #: spyder/plugins/editor/plugin.py:455 spyder/plugins/editor/plugin.py:456
 msgid "Print preview..."
@@ -2002,7 +2002,7 @@ msgstr "&Drukuj..."
 
 #: spyder/plugins/editor/plugin.py:458
 msgid "Print current file..."
-msgstr ""
+msgstr "Wydrukuj bieżący plik..."
 
 #: spyder/plugins/editor/plugin.py:461
 msgid "&Close"
@@ -2010,7 +2010,7 @@ msgstr "&Zamknij"
 
 #: spyder/plugins/editor/plugin.py:462
 msgid "Close current file"
-msgstr ""
+msgstr "Zamknij bieżący plik"
 
 #: spyder/plugins/editor/plugin.py:465
 msgid "C&lose all"
