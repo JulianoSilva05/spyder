@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-03-11 08:58-0500\n"
-"PO-Revision-Date: 2020-03-29 19:12\n"
+"PO-Revision-Date: 2020-03-30 19:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -2018,7 +2018,7 @@ msgstr "&Zamknij wszystkie"
 
 #: spyder/plugins/editor/plugin.py:466
 msgid "Close all opened files"
-msgstr ""
+msgstr "Zamknij wszystkie otwarte pliki"
 
 #: spyder/plugins/editor/plugin.py:473
 msgid "&Find text"
@@ -2038,11 +2038,11 @@ msgstr "&Zastąp tekst"
 
 #: spyder/plugins/editor/plugin.py:500
 msgid "Set/Clear breakpoint"
-msgstr ""
+msgstr "Ustaw/Wyczyść punkt wstrzymania (breakpoint)"
 
 #: spyder/plugins/editor/plugin.py:507
 msgid "Set/Edit conditional breakpoint"
-msgstr ""
+msgstr "Ustawienie/edycja warunkowego punktu przerwania (breakpoint)"
 
 #: spyder/plugins/editor/plugin.py:517
 msgid "Ignore Python libraries while debugging"
@@ -2074,7 +2074,7 @@ msgstr "Dalej"
 
 #: spyder/plugins/editor/plugin.py:546
 msgid "Continue execution until next breakpoint"
-msgstr ""
+msgstr "Kontynuuj wykonywanie do następnego punktu wstrzymania"
 
 #: spyder/plugins/editor/plugin.py:553
 msgid "Step Into"
@@ -2114,19 +2114,19 @@ msgstr "Ustawienia wykonywania"
 
 #: spyder/plugins/editor/plugin.py:594
 msgid "Re-run &last script"
-msgstr ""
+msgstr "Uruchom ponownie &ostatni skrypt"
 
 #: spyder/plugins/editor/plugin.py:596
 msgid "Run again last file"
-msgstr ""
+msgstr "Uruchom ponownie ostatni plik"
 
 #: spyder/plugins/editor/plugin.py:602 spyder/plugins/editor/widgets/codeeditor.py:3617
 msgid "Run &selection or current line"
-msgstr ""
+msgstr "Uruchom &zaznaczenie lub bieżącą linię"
 
 #: spyder/plugins/editor/plugin.py:605
 msgid "Run selection or current line"
-msgstr ""
+msgstr "Uruchom zaznaczenie lub bieżącą linię"
 
 #: spyder/plugins/editor/plugin.py:613 spyder/plugins/editor/widgets/codeeditor.py:3605
 msgid "Run cell"
@@ -2135,7 +2135,8 @@ msgstr "Wykonaj komórkę"
 #: spyder/plugins/editor/plugin.py:615
 msgid "Run current cell \n"
 "[Use #%% to create cells]"
-msgstr ""
+msgstr "Uruchom bieżącą komórkę \n"
+"[Użyj #%% aby utworzyć komórki]"
 
 #: spyder/plugins/editor/plugin.py:625 spyder/plugins/editor/widgets/codeeditor.py:3609
 msgid "Run cell and advance"
@@ -2143,7 +2144,7 @@ msgstr "Wykonaj komórkę i przejdź dalej"
 
 #: spyder/plugins/editor/plugin.py:627
 msgid "Run current cell and go to the next one "
-msgstr ""
+msgstr "Uruchom bieżącą komórkę i przejdź do następnej "
 
 #: spyder/plugins/editor/plugin.py:637 spyder/plugins/editor/widgets/codeeditor.py:3623
 msgid "Debug cell"
@@ -2167,11 +2168,11 @@ msgstr "Pokaż listę zadań"
 
 #: spyder/plugins/editor/plugin.py:661
 msgid "Show comments list (TODO/FIXME/XXX/HINT/TIP/@todo/HACK/BUG/OPTIMIZE/!!!/???)"
-msgstr ""
+msgstr "Pokaż listę komentarzy (TODO/FIXME/XXX/HINT/TIP/@todo/HACK/BUG/OPTIMIZE/!!!/??)"
 
 #: spyder/plugins/editor/plugin.py:670
 msgid "Show warning/error list"
-msgstr ""
+msgstr "Pokaż listę ostrzeżeń/błędów"
 
 #: spyder/plugins/editor/plugin.py:671
 msgid "Show code analysis warnings/errors"
@@ -2195,27 +2196,27 @@ msgstr "Przejdź do następnego ostrzeżenia/błędu z analizy kodu"
 
 #: spyder/plugins/editor/plugin.py:697
 msgid "Last edit location"
-msgstr ""
+msgstr "Ostatnie miejsce edycji"
 
 #: spyder/plugins/editor/plugin.py:698
 msgid "Go to last edit location"
-msgstr ""
+msgstr "Przejdź do ostatniego miejsca edycji"
 
 #: spyder/plugins/editor/plugin.py:706
 msgid "Previous cursor position"
-msgstr ""
+msgstr "Poprzednia pozycja kursora"
 
 #: spyder/plugins/editor/plugin.py:707
 msgid "Go to previous cursor position"
-msgstr ""
+msgstr "Przejdź do poprzedniej pozycji kursora"
 
 #: spyder/plugins/editor/plugin.py:715
 msgid "Next cursor position"
-msgstr ""
+msgstr "Następna pozycja kursora"
 
 #: spyder/plugins/editor/plugin.py:716
 msgid "Go to next cursor position"
-msgstr ""
+msgstr "Przejdź do kolejnej pozycji kursora"
 
 #: spyder/plugins/editor/plugin.py:726 spyder/plugins/editor/widgets/codeeditor.py:3589
 msgid "Comment"
@@ -2227,7 +2228,7 @@ msgstr "Usuń uwagę"
 
 #: spyder/plugins/editor/plugin.py:727
 msgid "Comment current line or selection"
-msgstr ""
+msgstr "Skomentuj bieżący wiersz lub zaznaczenie"
 
 #: spyder/plugins/editor/plugin.py:731
 msgid "Add &block comment"
@@ -2575,11 +2576,11 @@ msgstr ""
 
 #: spyder/plugins/editor/widgets/editor.py:1540
 msgid "Split horizontally"
-msgstr ""
+msgstr "Podziel poziomo"
 
 #: spyder/plugins/editor/widgets/editor.py:1542
 msgid "Split horizontally this editor window"
-msgstr ""
+msgstr "Podziel to okno edytora poziomo"
 
 #: spyder/plugins/editor/widgets/editor.py:1550
 msgid "Close this panel"
@@ -2591,7 +2592,7 @@ msgstr "Zamknij okno"
 
 #: spyder/plugins/editor/widgets/editor.py:1876
 msgid "<b>%s</b> has been modified.<br>Do you want to save changes?"
-msgstr ""
+msgstr "<b>%s</b> został zmodyfikowany.<br>Czy chcesz zapisać zmiany?"
 
 #: spyder/plugins/editor/widgets/editor.py:1996 spyder/plugins/editor/widgets/editor.py:2160 spyder/plugins/explorer/widgets/explorer.py:85
 msgid "Save Error"
@@ -2599,19 +2600,19 @@ msgstr "Błąd zapisu"
 
 #: spyder/plugins/editor/widgets/editor.py:1997 spyder/plugins/editor/widgets/editor.py:2161 spyder/plugins/explorer/widgets/explorer.py:86
 msgid "<b>Unable to save file '%s'</b><br><br>Error message:<br>%s"
-msgstr ""
+msgstr "<b>Nie można zapisać pliku '%s'</b><br><br>Komunikat błędu:<br>%s"
 
 #: spyder/plugins/editor/widgets/editor.py:2362
 msgid "<b>%s</b> is unavailable (this file may have been removed, moved or renamed outside Spyder).<br>Do you want to close it?"
-msgstr ""
+msgstr "<b>%s</b> jest niedostępny (ten plik mógł zostać usunięty, przeniesiony lub zmieniony poza Spyderem).<br>Czy chcesz go zamknąć?"
 
 #: spyder/plugins/editor/widgets/editor.py:2385
 msgid "<b>%s</b> has been modified outside Spyder.<br>Do you want to reload it and lose all your changes?"
-msgstr ""
+msgstr "<b>%s</b> został zmodyfikowany poza Spyderem.<br>Czy chcesz go przeładować i stracić wszystkie zmiany?"
 
 #: spyder/plugins/editor/widgets/editor.py:2495
 msgid "All changes to <b>%s</b> will be lost.<br>Do you want to revert file from disk?"
-msgstr ""
+msgstr "Wszystkie zmiany w <b>%s</b> zostaną utracone.<br>Czy chcesz przywrócić plik z dysku?"
 
 #: spyder/plugins/editor/widgets/editor.py:2674
 msgid "Loading %s..."
@@ -2619,7 +2620,7 @@ msgstr "Wczytywanie %s..."
 
 #: spyder/plugins/editor/widgets/editor.py:2689
 msgid "<b>%s</b> contains mixed end-of-line characters.<br>Spyder will fix this automatically."
-msgstr ""
+msgstr "<b>%s</b> zawiera mieszane znaki końca linii.<br>Spyder naprawi to automatycznie."
 
 #: spyder/plugins/editor/widgets/editor.py:3257
 msgid "Close this window"
@@ -2643,16 +2644,17 @@ msgstr "Rozmiar"
 
 #: spyder/plugins/editor/widgets/recover.py:58
 msgid "<i>File no longer exists</i>"
-msgstr ""
+msgstr "<i>Plik już nie istnieje</i>"
 
 #: spyder/plugins/editor/widgets/recover.py:101
 msgid "Recover from autosave"
-msgstr ""
+msgstr "Odzyskaj z automatycznego zapisu"
 
 #: spyder/plugins/editor/widgets/recover.py:151
 msgid "Autosave files found. What would you like to do?\n\n"
 "This dialog will be shown again on next startup if any autosave files are not restored, moved or deleted."
-msgstr ""
+msgstr "Znaleziono pliki autozapisu. Co chciałbyś zrobić?\n\n"
+"To okno dialogowe zostanie wyświetlone ponownie przy następnym uruchomieniu, jeśli pliki autozapisu nie zostaną przywrócone, przeniesione lub usunięte."
 
 #: spyder/plugins/editor/widgets/recover.py:170
 msgid "Actions"
@@ -2676,7 +2678,7 @@ msgstr "Przywróć"
 
 #: spyder/plugins/editor/widgets/recover.py:197
 msgid "Delete the autosave file."
-msgstr ""
+msgstr "Usuń plik autozapisu."
 
 #: spyder/plugins/editor/widgets/recover.py:198
 msgid "Discard"
